@@ -9,8 +9,20 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="start"
+        android:text="test3"
         android:onClick="start"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="test4"
+        android:onClick="test4"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="test2"
+        android:onClick="test2"
         />
     <ImageView
         android:id="@+id/m_image_view"
